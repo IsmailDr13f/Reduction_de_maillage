@@ -68,3 +68,6 @@ Cet algorithme réduit le nombre d’arêtes en fusionnant deux sommets connect�
   - Résultats de l'Edge Collapse dans `output_EC`.
 - **Analyse des résultats** : Document Word contenant les différentes visualisations des modèles avant et après réduction.
 
+![image](https://github.com/user-attachments/assets/8e8b11df-5840-4ce2-a42e-60a2e5667cb1)
+
+
