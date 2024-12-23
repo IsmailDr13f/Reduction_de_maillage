@@ -1,7 +1,7 @@
 # Réduction de Maillage
 
 Ce projet implémente deux algorithmes de réduction de maillage, **Vertex Clustering** et **Edge Collapse**, appliqués à des fichiers 3D au format `.obj`. L'objectif est de réduire la complexité des modèles tout en préservant leur structure essentielle.
-
+## Réalisé par : DRIEF ISMAIL
 ## Structure du Projet
 
 ### 1. Dossier `DVI2`
@@ -70,4 +70,5 @@ Cet algorithme réduit le nombre d’arêtes en fusionnant deux sommets connect�
 
 ![image](https://github.com/user-attachments/assets/8e8b11df-5840-4ce2-a42e-60a2e5667cb1)
 
+## Réalisé par : DRIEF ISMAIL
 
